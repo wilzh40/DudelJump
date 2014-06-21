@@ -8,6 +8,16 @@
 
 #import "CCNode.h"
 
-@interface GameScene : CCNode
+@interface GameScene : CCNode <CCPhysicsCollisionDelegate>{
+    
+    float _score;
+    
+    int _maxBlockNumber,_minBlockNumber,_currentBlockNumber;
+    
+    
+    CCPhysicsNode *_physicsNode;
+    
+    
+}
 
 @end
