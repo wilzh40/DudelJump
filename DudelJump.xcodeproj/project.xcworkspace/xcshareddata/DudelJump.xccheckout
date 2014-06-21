@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2818EA0A-72D0-4077-BAF2-D56865C46CC1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DudelJump</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AD463E8B-E02C-4F7C-86F5-AE05EAE6491F</key>
+		<string>https://github.com/wilzh40/DudelJump.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DudelJump.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AD463E8B-E02C-4F7C-86F5-AE05EAE6491F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wilzh40/DudelJump.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AD463E8B-E02C-4F7C-86F5-AE05EAE6491F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AD463E8B-E02C-4F7C-86F5-AE05EAE6491F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DudelJump.spritebuilder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
